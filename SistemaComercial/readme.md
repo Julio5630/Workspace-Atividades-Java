@@ -1,8 +1,4 @@
-Com certeza! Aqui está um README criativo para o seu projeto, utilizando os arquivos que você forneceu:
-
 # 🚀 Sistema Comercial Java: Descomplicando a Gestão de Produtos! 🚀
-
-Bem-vindo ao **Sistema Comercial Java**, um projeto robusto e intuitivo desenvolvido para simplificar o gerenciamento de produtos. Com uma interface amigável e funcionalidades essenciais, este sistema é a ferramenta perfeita para otimizar o controle do seu estoque e vendas!
 
 ## ✨ Destaques do Projeto
 
@@ -15,7 +11,6 @@ Bem-vindo ao **Sistema Comercial Java**, um projeto robusto e intuitivo desenvol
 
 *   **Java:** A espinha dorsal do nosso sistema, garantindo robustez e portabilidade.
 *   **Swing:** Para a construção da interface gráfica de usuário (GUI).
-*   **FlatLaf:** Um tema moderno para Swing, proporcionando um visual limpo e contemporâneo.
 *   **MVC (Model-View-Controller):** Padrão de arquitetura que separa a lógica de negócios da interface do usuário, promovendo um código mais organizado e fácil de manter.
 
 ## 📂 Estrutura do Projeto
@@ -76,5 +71,3 @@ Sinta-se à vontade para contribuir com este projeto! Seja corrigindo bugs, adic
 5.  Abra um Pull Request.
 
 ---
-
-Desenvolvido com ❤️ por [Seu Nome/Sua Equipe]
